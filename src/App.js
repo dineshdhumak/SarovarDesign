@@ -21,7 +21,7 @@ function App() {
           </Switch>
 
       <footer className="App-footer">
-        This is a footer
+        This is a Your second page
       </footer>
     </div>
   );
