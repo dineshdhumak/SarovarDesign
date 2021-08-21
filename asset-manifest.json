@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/SarovarDesign/static/css/main.1b456dcf.chunk.css",
-    "main.js": "/SarovarDesign/static/js/main.975bc827.chunk.js",
-    "main.js.map": "/SarovarDesign/static/js/main.975bc827.chunk.js.map",
+    "main.js": "/SarovarDesign/static/js/main.75094c6e.chunk.js",
+    "main.js.map": "/SarovarDesign/static/js/main.75094c6e.chunk.js.map",
     "runtime-main.js": "/SarovarDesign/static/js/runtime-main.176edac3.js",
     "runtime-main.js.map": "/SarovarDesign/static/js/runtime-main.176edac3.js.map",
-    "static/js/2.b67ed027.chunk.js": "/SarovarDesign/static/js/2.b67ed027.chunk.js",
-    "static/js/2.b67ed027.chunk.js.map": "/SarovarDesign/static/js/2.b67ed027.chunk.js.map",
+    "static/js/2.d7575f2e.chunk.js": "/SarovarDesign/static/js/2.d7575f2e.chunk.js",
+    "static/js/2.d7575f2e.chunk.js.map": "/SarovarDesign/static/js/2.d7575f2e.chunk.js.map",
     "index.html": "/SarovarDesign/index.html",
     "static/css/main.1b456dcf.chunk.css.map": "/SarovarDesign/static/css/main.1b456dcf.chunk.css.map",
-    "static/js/2.b67ed027.chunk.js.LICENSE.txt": "/SarovarDesign/static/js/2.b67ed027.chunk.js.LICENSE.txt",
+    "static/js/2.d7575f2e.chunk.js.LICENSE.txt": "/SarovarDesign/static/js/2.d7575f2e.chunk.js.LICENSE.txt",
     "static/media/logo.355735b3.svg": "/SarovarDesign/static/media/logo.355735b3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.176edac3.js",
-    "static/js/2.b67ed027.chunk.js",
+    "static/js/2.d7575f2e.chunk.js",
     "static/css/main.1b456dcf.chunk.css",
-    "static/js/main.975bc827.chunk.js"
+    "static/js/main.75094c6e.chunk.js"
   ]
 }
