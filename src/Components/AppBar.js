@@ -18,7 +18,9 @@ export default function ButtonAppBar() {
                             <Tab />
             <Link to={process.env.PUBLIC_URL + '/Gallery'}>Gallery
                             </Link>
-            
+                            <Tab />
+            <Link to={process.env.PUBLIC_URL + '/Page3'}>Page3
+                            </Link>
           
             
         </Toolbar>

@@ -8,6 +8,8 @@ import Typography from '@material-ui/core/Typography';
 
 import Location from './Location';
 import Datepicker from './Datepicker';
+import Services from './Services';
+
 
 const useStyles = makeStyles({
   root: {
@@ -34,7 +36,7 @@ export default function Card2() {
     <Card className={classes.root} variant="outlined">
       <CardContent>
         <Typography className={classes.title} color="textSecondary" gutterBottom>
-         <table><tr><td><Location /></td><td><Datepicker /></td></tr>
+         <table><tr><td><Location /></td><td><Datepicker /></td><Services /><td></td></tr>
          
          </table>
         </Typography>

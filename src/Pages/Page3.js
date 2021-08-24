@@ -1,14 +1,16 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
-
-
-
-export default function page3() {
+import React from 'react';
+import Container from '@material-ui/core/Container';
+import CenteredGrid from '../Components/Gridtext';
+import Card3 from '../Components/Card3';
+export default function Page3() {
+  
   return (
-    <div className="root">
-          {/* Mobile stepper */}
-                     
-                         <h2 ><Link to="/Mobilesteppertext">Mobile stepper Examples</Link></h2>
-                         </div>                           
-  )     
-  }
+    <React.Fragment>
+        <Container fixed>
+          <CenteredGrid/> 
+           <Card3/>   
+          <br /> 
+        </Container>
+    </React.Fragment>
+  );
+}

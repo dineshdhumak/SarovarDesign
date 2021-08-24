@@ -26,7 +26,7 @@ export default function Datepicker() {
     <form className={classes.container} noValidate>
       <TextField
         id="date"
-        label="Birthday"
+        label="Book Date"
         type="date"
         defaultValue="2017-05-24"
         className={classes.textField}
@@ -36,7 +36,7 @@ export default function Datepicker() {
       />
        <TextField
        id="time"
-      label="Alarm clock"
+      label="Time In"
       type="time"
       defaultValue="07:30"
       className={classes.textField}

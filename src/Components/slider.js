@@ -11,15 +11,15 @@ export default function Sl1() {
     }
   ];
 
-  return (
+ return (
     <div className="slider">
       <SimpleImageSlider
-            textAlign="center"
+        textAlign="center"
         showNavs="true"
         width={456}
         height={304}
         images={images}
-      />
+        />
     </div>
   );
 }

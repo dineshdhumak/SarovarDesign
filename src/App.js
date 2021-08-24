@@ -23,6 +23,7 @@ function App() {
             <Route path={process.env.PUBLIC_URL + '/page3'}  > <Page3/> </Route>
             
           </Switch>
+          <br />
 
       <footer className="App-footer">
         
